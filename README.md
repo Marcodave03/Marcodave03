@@ -11,6 +11,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcodave03&layout=pie&theme=dark)](https://github.com/Marcodave03/github-readme-stats)
 
+[![MarcoDave's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Marcodave03/github-readme-stats)
+
+
 
 
 
