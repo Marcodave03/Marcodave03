@@ -9,7 +9,8 @@
 
 ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcodave03&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcodave03&hide_progress=true&theme=dark&langs_count=10&custom_title=Top%20Languages%20🥧)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcodave03&layout=pie&theme=dark)](https://github.com/Marcodave03/github-readme-stats)
+
 
 
 
